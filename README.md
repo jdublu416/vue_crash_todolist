@@ -25,5 +25,7 @@ npm run test
 npm run lint
 ``` -->
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##Description
+
+This is a Vue app that I created to learn and get familiar with this framework. Also experimented with CSS and added local
+storage for data persistence.
