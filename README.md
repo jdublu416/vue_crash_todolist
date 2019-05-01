@@ -29,3 +29,5 @@ npm run lint
 
 This is a Vue app that I created to learn and get familiar with this framework. Also experimented with CSS and added local
 storage for data persistence.
+
+To see and use this app [Click here](https://distracted-galileo-efa568.netlify.com/#/)
