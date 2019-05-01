@@ -28,6 +28,7 @@ export default {
 background: #f4f4f4;
 padding: 15px;
 border-bottom:2px #c2c2c2 solid;
+opacity: 0.8;
  }
 
  .is-complete{

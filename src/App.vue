@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Video/>
     <Header/>
     <router-view/>
   </div>
@@ -7,11 +8,14 @@
 
 <script>
 import Header from "./components/layout/Header";
+import Video from "./components/layout/Video";
+
 
 export default {
   name: "app",
   components: {
-    Header
+    Header,
+    Video
   }
 }
 </script>
@@ -27,5 +31,6 @@ export default {
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.4;
+  
 }
 </style>

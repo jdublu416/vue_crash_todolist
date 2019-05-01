@@ -37,10 +37,10 @@ export default {
 <style scoped>
 form {
   display: flex;
-  margin: 12px 0;
+  /* margin: 12px 0; */
 }
 .btn {
-  background: #566;
+  background: #677a90;
   color: #fff;
   padding: 5px;
   border: 1px solid black;
